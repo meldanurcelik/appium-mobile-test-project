@@ -50,7 +50,7 @@ public class Calculator {
 			System.out.println("Test Failed...");
 		}
 		
-		Thread.sleep(1000);
+		Thread.sleep(500);
 		driver.quit();
 	}
 }
